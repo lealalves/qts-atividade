@@ -97,4 +97,6 @@ class PokemonService:
         self.next_id += 1
 
         return new_pokemon
+
+
 pokemon_service = PokemonService()
